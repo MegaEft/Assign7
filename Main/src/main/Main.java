@@ -25,8 +25,6 @@ public class Main extends Application {
         btn.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                System.out.println("Print line 2");
-                System.out.println("Hello World!");
                 System.out.println("Print line 1");
                 //yes test.
                 //not test.
