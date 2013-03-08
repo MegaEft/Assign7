@@ -28,6 +28,7 @@ public class Main extends Application {
                 System.out.println("fuck this shit");
                 System.out.println("Hello World!");
                 System.out.println("Test1");
+                System.out.println("blahblah");
             }
         });
         
