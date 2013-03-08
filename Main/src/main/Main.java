@@ -26,7 +26,7 @@ public class Main extends Application {
             @Override
             public void handle(ActionEvent event) {
                 System.out.println("Hello World!");
-                System.out.println("Test");
+                System.out.println("Dan");
             }
         });
         
