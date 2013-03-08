@@ -25,10 +25,7 @@ public class Main extends Application {
         btn.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                System.out.println("Hello World0!");
-                System.out.println("Hello World1!");
-                System.out.println("Hello World2!");
-                System.out.println("Hi!");
+                System.out.println("Hello World!");
                 //yes test.
                 //not test.
             }
