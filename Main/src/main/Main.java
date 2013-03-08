@@ -27,7 +27,7 @@ public class Main extends Application {
             public void handle(ActionEvent event) {
                 System.out.println("Dan");
                 System.out.println("Hello World!");
-                System.out.println("Test")
+                System.out.println("Test");
             }
         });
         
