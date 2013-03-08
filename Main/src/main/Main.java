@@ -25,7 +25,7 @@ public class Main extends Application {
         btn.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                System.out.println("Online printline");
+                System.out.println("Online");
                 //yes test.
                 //not test.
             }
