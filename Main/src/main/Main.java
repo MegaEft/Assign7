@@ -27,7 +27,7 @@ public class Main extends Application {
             public void handle(ActionEvent event) {
                 System.out.println("fuck this shit");
                 System.out.println("Hello World!");
-                System.out.println("Why can't there be nice client server version control?");
+                System.out.println("Test1");
             }
         });
         
