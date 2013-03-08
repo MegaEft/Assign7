@@ -53,4 +53,7 @@ public class Main extends Application {
     public static void main(String[] args) {
         launch(args);
     }
+     public static void more_stuff(String[] args2){
+        System.out.println(args2);
+    }
 }
